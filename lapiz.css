@@ -109,7 +109,7 @@ a:hover{
     grid-template-rows: 350px 350px;
     gap: 10px;
     grid-row: 10px;
-    background-image: url(/img/fonfo.jpg);
+    background-image: url(fonfo.jpg);
 }
 
 
